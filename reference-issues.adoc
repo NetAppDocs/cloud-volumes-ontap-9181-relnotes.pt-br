@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: reference-issues.html 
+keywords: issues, bugs, known issues 
+summary: Os problemas conhecidos identificam problemas que podem impedir você de usar esta versão do produto com sucesso. 
+---
+= Problemas conhecidos do Cloud Volumes ONTAP
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Os problemas conhecidos identificam problemas que podem impedir você de usar esta versão do produto com sucesso.
+
+Não há problemas conhecidos nesta versão específicos do Cloud Volumes ONTAP.
+
+Você pode encontrar problemas conhecidos do ONTAP software no  https://library.netapp.com/ecm/ecm_download_file/ECMLP2492508["Notas de lançamento do ONTAP"^].
