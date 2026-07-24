@@ -962,4 +962,8 @@
   <block id="1fff298355326f8c77bd77059a41c1a2" category="sidebar">Limitações no Azure</block>
   <block id="9a3a0c4b2afbb088e029484d4b34ba8b" category="sidebar">Limitações no Google Cloud</block>
   <block id="b67ce24b0ef9db5e8910cc39a69b1ef6" category="sidebar">Integrações com provedores de nuvem</block>
+  <block id="504a30935281c2b032cb969fd70d6274" category="section-title">9.18.1 P3 (22 de julho de 2026)</block>
+  <block id="f052dcc1c5054a042f1eef5b4ffda576" category="paragraph">O patch 9.18.1 P3 do Cloud Volumes ONTAP já está disponível para implantação e atualização na AWS, Azure e Google Cloud. O Console solicitará que você atualize seus sistemas existentes para esta versão de patch.</block>
+  <block id="4c7cf73669136d536c96ca7317eb5ceb" category="inline-link-macro">Veja a lista de bugs corrigidos no patch P3</block>
+  <block id="62fdf1fa94de118a81fb9f2d073962e0" category="paragraph"><block ref="d03df7418785bb7a227c8d7d9af3263b" category="inline-link-macro-rx"></block> (NetApp site de suporte, é necessário login).</block>
 </blocks>
