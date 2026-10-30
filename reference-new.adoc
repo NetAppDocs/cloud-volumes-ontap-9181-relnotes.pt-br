@@ -20,6 +20,15 @@ Para saber sobre os recursos do Cloud Volumes ONTAP que foram introduzidos nas v
 
 
 
+[[9-18-1-p8-30-october-2026]]
+== 9.18.1 P8 (30 de outubro de 2026)
+
+O patch 9.18.1 P8 do Cloud Volumes ONTAP já está disponível para implantação e atualização na AWS, Azure e Google Cloud. O Console solicitará que você atualize seus sistemas existentes para esta versão de patch.
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.18.1P8["Veja a lista de bugs corrigidos no patch P8"^] (NetApp site de suporte, é necessário login).
+
+
+
 [[9-18-1-p3-22-july-2026]]
 == 9.18.1 P3 (22 de julho de 2026)
 
